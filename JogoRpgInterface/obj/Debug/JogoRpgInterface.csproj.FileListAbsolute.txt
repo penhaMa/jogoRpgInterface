@@ -1,0 +1,11 @@
+C:\Users\marcel.rmpenha\source\repos\JogoRpgInterface\JogoRpgInterface\bin\Debug\JogoRpgInterface.exe.config
+C:\Users\marcel.rmpenha\source\repos\JogoRpgInterface\JogoRpgInterface\bin\Debug\JogoRpgInterface.exe
+C:\Users\marcel.rmpenha\source\repos\JogoRpgInterface\JogoRpgInterface\bin\Debug\JogoRpgInterface.pdb
+C:\Users\marcel.rmpenha\source\repos\JogoRpgInterface\JogoRpgInterface\obj\Debug\JogoRpgInterface.csproj.AssemblyReference.cache
+C:\Users\marcel.rmpenha\source\repos\JogoRpgInterface\JogoRpgInterface\obj\Debug\JogoRpgInterface.csproj.SuggestedBindingRedirects.cache
+C:\Users\marcel.rmpenha\source\repos\JogoRpgInterface\JogoRpgInterface\obj\Debug\JogoRpgInterface.Form1.resources
+C:\Users\marcel.rmpenha\source\repos\JogoRpgInterface\JogoRpgInterface\obj\Debug\JogoRpgInterface.Properties.Resources.resources
+C:\Users\marcel.rmpenha\source\repos\JogoRpgInterface\JogoRpgInterface\obj\Debug\JogoRpgInterface.csproj.GenerateResource.cache
+C:\Users\marcel.rmpenha\source\repos\JogoRpgInterface\JogoRpgInterface\obj\Debug\JogoRpgInterface.csproj.CoreCompileInputs.cache
+C:\Users\marcel.rmpenha\source\repos\JogoRpgInterface\JogoRpgInterface\obj\Debug\JogoRpgInterface.exe
+C:\Users\marcel.rmpenha\source\repos\JogoRpgInterface\JogoRpgInterface\obj\Debug\JogoRpgInterface.pdb
