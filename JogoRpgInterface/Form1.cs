@@ -12,9 +12,13 @@ namespace JogoRpgInterface
 {
     public partial class Form1 : Form
     {
+        Login log;
+        Form1 ent;
+
         public Form1()
         {
             InitializeComponent();
+            log = new Login();
         }
 
         private void label1_Click(object sender, EventArgs e)
@@ -31,5 +35,10 @@ namespace JogoRpgInterface
         {
 
         }
+
+        private void button1_Click(object sender, EventArgs e)
+        {
+            log.ShowDialog();
+        }//Criar 
     }
 }
